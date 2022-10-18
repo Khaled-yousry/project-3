@@ -1,0 +1,17 @@
+.img1 {
+  height: 500px;
+  background-attachment: fixed;
+  background-image: url(../img/ASUS_PBA-Banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.img2 {
+  height: 500px;
+  background-attachment: fixed;
+  background-image: url(../img/20180530212748_newscontent_21.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
